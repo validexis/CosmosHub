@@ -1,18 +1,18 @@
-# Cosmos Hub
+# CosmosHub
 
-**Cosmos Hub** is the first of many interconnected blockchains powered by the interchain stack: CometBFT, CosmosSDK and IBC. The primary token of the Cosmos Hub is the ATOM.
+**CosmosHub** is the first of many interconnected blockchains powered by the interchain stack: CometBFT, CosmosSDK and IBC. The primary token of the Cosmos Hub is the ATOM.
 
 ---
 
 <div>
-<h1 align="left" style="display: flex;">Cosmos Hub node Setup for Cosmos Hub mainnet</h1>
+<h1 align="left" style="display: flex;">CosmosHub node Setup for CosmosHub mainnet</h1>
 </div>
 
 ## 🛠️ Install Main Validator
 To install the main validator node, execute the following command:
 
 ~~~bash
-source <(curl -s https://raw.githubusercontent.com/validexis/Cosmos Hub/main/installmain.sh)
+source <(curl -s https://raw.githubusercontent.com/validexis/CosmosHub/main/installmain.sh)
 ~~~
 
 ---
@@ -21,7 +21,7 @@ source <(curl -s https://raw.githubusercontent.com/validexis/Cosmos Hub/main/ins
 To upgrade your validator node to the latest version, run:
 
 ~~~bash
-source <(curl -s https://raw.githubusercontent.com/validexis/Cosmos Hub/main/upgrademain.sh)
+source <(curl -s https://raw.githubusercontent.com/validexis/CosmosHub/main/upgrademain.sh)
 ~~~
 
 ---
