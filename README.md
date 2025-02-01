@@ -27,4 +27,4 @@ source <(curl -s https://raw.githubusercontent.com/validexis/Cosmos Hub/main/upg
 ---
 
 ## 📚 Additional Information
-For more details, visit the (https://services.validexis.com/mainnets/Cosmos Hub) or open an issue for questions or support.
+For more details, visit the (https://services.validexis.com/mainnets/CosmosHub) or open an issue for questions or support.
