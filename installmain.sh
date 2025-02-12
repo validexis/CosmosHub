@@ -14,7 +14,7 @@ cd $HOME
 rm -rf gaia
 git clone https://github.com/cosmos/gaia.git
 cd gaia
-git checkout v22.0.0
+git checkout v22.1.0
 make install
 
 gaiad config set client chain-id cosmoshub-4
